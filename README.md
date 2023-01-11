@@ -1,4 +1,4 @@
-##Python for Data Science and Machine Learning Bootcamp - Guided Projects
+##Python for Data Science and Machine Learning Bootcamp - Guided Projects##
 
 I completed the '**Python for Data Science and Machine Learning Bootcamp**' course taught by Jose Portilla on Udemy. The course link can be found here: <https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp>
 
