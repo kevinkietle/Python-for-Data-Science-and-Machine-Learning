@@ -1,8 +1,8 @@
-# Python-for-Data-Science-and-Machine-Learning
+# Python for Data Science and Machine Learning
 
-I completed the 'Python for Data Science and Machine Learning Bootcamp' course taught by Jose Portilla on Udemy. The course link can be found here: <https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp>
+I completed the '**Python for Data Science and Machine Learning Bootcamp**' course taught by Jose Portilla on Udemy. The course link can be found here: <https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp>
 
-In this course, I learned three main things: Python for Data Analysis, Python for Data Visualization, and Python for Machine Learning.
+In this course, I learned three main things: **Python for Data Analysis, Python for Data Visualization, and Python for Machine Learning**.
 
 The first two projects in the course, [911 Calls](https://github.com/kevinkietle/Python-for-Data-Science-and-Machine-Learning/blob/main/911%20Calls%20Data%20Capstone%20Project.ipynb) and [Finance Project](https://github.com/kevinkietle/Python-for-Data-Science-and-Machine-Learning/blob/main/Finance%20Project.ipynb), are capstone projects that cover the first two cornerstones of python for data analysis and data visualization.
 
