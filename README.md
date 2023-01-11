@@ -26,6 +26,6 @@ The rest of the projects demonstrate usage of a specific machine learning model,
 
 Feel free to contact me with any questions or inquiries.
 
-LinkedIn - <https://www.linkedin.com/in/kevinkietle/>
+**LinkedIn** - <https://www.linkedin.com/in/kevinkietle/>
 
-Email - <kevinkietle@gmail.com>
+**Email** - <kevinkietle@gmail.com>
